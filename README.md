@@ -55,19 +55,19 @@ Using CommitNotify is as simple as setting up your credentials and letting it ru
 
 1. **Setup Your Credentials**: Just set up your GitHub credentials like this (my token is revoked after this screenshot :wink:):
 
-![Setup Credentials](https://cdn.discordapp.com/attachments/1063905508693651539/1142392357807984720/setup.png)
+![Setup Credentials](screenshots/setup.png)
 
 2. **Start Listening for Commits**: Click enter, and the code will start listening for commits:
 
-![Listening for Commits](https://cdn.discordapp.com/attachments/1063905508693651539/1142392506366054440/listening.png)
+![Listening for Commits](screenshots/listening.png)
 
 3. **Receive Desktop Notifications**: Once your partner/team makes a commit and pushes to GitHub, you will receive a desktop notification:
 
-![Desktop Notification](https://cdn.discordapp.com/attachments/1063905508693651539/1142392803515711488/commitNotification.png)
+![Desktop Notification](screenshots/commitNotification.png)
 
 4. **View Commit Details**: All the information about the commit, including modified files and the new version, is provided in the terminal:
 
-![Commit Details](https://cdn.discordapp.com/attachments/1063905508693651539/1142392984537677834/commitTerminal.png)
+![Commit Details](screenshots/commitTerminal.png)
 
 note: the GitHub username, repository name, and access token should all lead to one repo
 
